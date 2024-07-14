@@ -19,14 +19,18 @@ const tgLink = "https://t.me/y87cgp";
     <ul>
       <li>Tailwind CSS</li>
       <li>State Managers: Redux, Zustand</li>
-      <li>Vite</li>
       <li>Linux, System Administration</li>
+      <li>Telegram Bots</li>
+      <li>Vite</li>
     </ul>
 
     <h2>Other Skills</h2>
     <ul>
       <li>Crypto</li>
       <li>Svelte</li>
+      <li>Vue</li>
+      <li>Github Actions</li>
+      <li>Github Pages</li>
     </ul>
 
     <h2>Obviously Used (section for HR's)</h2>
